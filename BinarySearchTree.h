@@ -1,6 +1,6 @@
 /*
 	Cesar Camarena
-	
+	Anthony Palmer
 	Lab 11
 */
 #if !defined (BINARYSEARCHTREE_H)
